@@ -1,0 +1,37 @@
+*{
+    margin: 0%;
+}
+h1{
+    text-align: center;
+    color: rgb(0, 128, 0);
+}
+hr{
+    height: 10px;
+    background-color: rgba(0, 130, 59, 0.959);
+}
+h2{
+    text-align: center;
+    font-family: cursive;
+    font-weight: bolder;
+    font-size: 30px;
+    color: #263f05e7;
+}
+p{
+    font-size: 28px;
+}
+.main{
+    color: rgba(0, 128, 0, 0.945);
+    font-size: 36px;
+    font-family: cursive;
+    background-color: silver;
+    border: solid grey thin ;
+    padding-left : 40px;
+    padding: 100px;
+    margin: 200px;
+}
+#staroftheshow{
+    font-family: cursive;
+    color: rgba(0, 128, 0, 0.945);
+    font-size: 36px;
+    padding: 40px;
+}
